@@ -1,0 +1,55 @@
+C:\Fall 2015 - SEM 6\InternShip\Software\SmartReminder\SmartReminder\bin\Debug\SmartReminder.exe.config
+C:\Fall 2015 - SEM 6\InternShip\Software\Smart Reminder\SmartReminder\bin\Debug\SmartReminder.exe.config
+C:\Fall 2015 - SEM 6\InternShip\Software\Smart Reminder\SmartReminder\bin\Debug\SmartReminder.exe
+C:\Fall 2015 - SEM 6\InternShip\Software\Smart Reminder\SmartReminder\bin\Debug\SmartReminder.pdb
+C:\Fall 2015 - SEM 6\InternShip\Software\Smart Reminder\SmartReminder\obj\Debug\SmartReminder.csprojResolveAssemblyReference.cache
+C:\Fall 2015 - SEM 6\InternShip\Software\Smart Reminder\SmartReminder\obj\Debug\SmartReminder.Form1.resources
+C:\Fall 2015 - SEM 6\InternShip\Software\Smart Reminder\SmartReminder\obj\Debug\SmartReminder.frmLogin.resources
+C:\Fall 2015 - SEM 6\InternShip\Software\Smart Reminder\SmartReminder\obj\Debug\SmartReminder.frmUser.resources
+C:\Fall 2015 - SEM 6\InternShip\Software\Smart Reminder\SmartReminder\obj\Debug\SmartReminder.Properties.Resources.resources
+C:\Fall 2015 - SEM 6\InternShip\Software\Smart Reminder\SmartReminder\obj\Debug\SmartReminder.csproj.GenerateResource.Cache
+C:\Fall 2015 - SEM 6\InternShip\Software\Smart Reminder\SmartReminder\obj\Debug\SmartReminder.exe
+C:\Fall 2015 - SEM 6\InternShip\Software\Smart Reminder\SmartReminder\obj\Debug\SmartReminder.pdb
+C:\Fall 2015 - SEM 6\InternShip\Software\Smart Reminder\SmartReminder\obj\Debug\SmartReminder.frmBank.resources
+C:\Fall 2015 - SEM 6\InternShip\Software\Smart Reminder\SmartReminder\obj\Debug\SmartReminder.frmHBFCBranch.resources
+C:\Fall 2015 - SEM 6\InternShip\Software\Smart Reminder\SmartReminder\obj\Debug\SmartReminder.frmIssue.resources
+C:\Fall 2015 - SEM 6\InternShip\Software\Smart Reminder\SmartReminder\obj\Debug\SmartReminder.frmPayment.resources
+C:\Fall 2015 - SEM 6\InternShip\Software\Smart Reminder\SmartReminder\obj\Debug\SmartReminder.frmDepartment.resources
+C:\Users\Uzair\Desktop\HBFC Software\HBFC\Smart ReminderHaris\SmartReminder\bin\Debug\SmartReminder.exe.config
+C:\Users\Uzair\Desktop\HBFC Software\HBFC\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.exe
+C:\Users\Uzair\Desktop\HBFC Software\HBFC\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.pdb
+C:\Users\Uzair\Desktop\HBFC Software\Smart ReminderHaris\SmartReminder\bin\Debug\SmartReminder.exe.config
+C:\Users\Uzair\Desktop\HBFC Software\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.exe
+C:\Users\Uzair\Desktop\HBFC Software\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.pdb
+C:\Users\Uzair\Desktop\HBFC Software\Smart ReminderHaris\SmartReminder\bin\Debug\SmartReminder.exe
+C:\Users\Uzair\Desktop\HBFC Software\Smart ReminderHaris\SmartReminder\bin\Debug\SmartReminder.pdb
+C:\Users\Uzair\Desktop\HBFC Software\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.csprojResolveAssemblyReference.cache
+C:\Users\Uzair\Desktop\HBFC Software\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.Form1.resources
+C:\Users\Uzair\Desktop\HBFC Software\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.frmBank.resources
+C:\Users\Uzair\Desktop\HBFC Software\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.frmDepartment.resources
+C:\Users\Uzair\Desktop\HBFC Software\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.frmHBFCBranch.resources
+C:\Users\Uzair\Desktop\HBFC Software\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.frmIssue.resources
+C:\Users\Uzair\Desktop\HBFC Software\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.frmLogin.resources
+C:\Users\Uzair\Desktop\HBFC Software\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.frmPayment.resources
+C:\Users\Uzair\Desktop\HBFC Software\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.frmUser.resources
+C:\Users\Uzair\Desktop\HBFC Software\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.Properties.Resources.resources
+C:\Users\Uzair\Desktop\HBFC Software\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.csproj.GenerateResource.Cache
+G:\Smart ReminderHaris\SmartReminder\bin\Debug\SmartReminder.exe.config
+G:\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.exe
+G:\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.pdb
+G:\Smart ReminderHaris\SmartReminder\bin\Debug\SmartReminder.exe
+G:\Smart ReminderHaris\SmartReminder\bin\Debug\SmartReminder.pdb
+G:\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.csprojResolveAssemblyReference.cache
+G:\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.Form1.resources
+G:\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.frmBank.resources
+G:\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.frmDepartment.resources
+G:\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.frmHBFCBranch.resources
+G:\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.frmIssue.resources
+G:\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.frmLogin.resources
+G:\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.frmPayment.resources
+G:\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.frmUser.resources
+G:\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.Properties.Resources.resources
+G:\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.csproj.GenerateResource.Cache
+G:\Smart ReminderUzair\SmartReminder\bin\Debug\SmartReminder.exe.config
+G:\Smart ReminderUzair\SmartReminder\obj\Debug\SmartReminder.exe
+G:\Smart ReminderUzair\SmartReminder\obj\Debug\SmartReminder.pdb
