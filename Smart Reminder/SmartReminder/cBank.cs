@@ -11,7 +11,7 @@ namespace SmartReminder
 {
     public class cBank
     {
-        public int pBankID;
+        public int pBankID;// hello
         public String pBankName;
 
         static SqlConnection adocon;

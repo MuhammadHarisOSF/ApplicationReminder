@@ -53,3 +53,6 @@ G:\Smart ReminderHaris\SmartReminder\obj\Debug\SmartReminder.csproj.GenerateReso
 G:\Smart ReminderUzair\SmartReminder\bin\Debug\SmartReminder.exe.config
 G:\Smart ReminderUzair\SmartReminder\obj\Debug\SmartReminder.exe
 G:\Smart ReminderUzair\SmartReminder\obj\Debug\SmartReminder.pdb
+C:\Users\Uzair\ApplicationReminder\Smart Reminder\SmartReminder\bin\Debug\SmartReminder.exe.config
+C:\Users\Uzair\ApplicationReminder\Smart Reminder\SmartReminder\obj\Debug\SmartReminder.exe
+C:\Users\Uzair\ApplicationReminder\Smart Reminder\SmartReminder\obj\Debug\SmartReminder.pdb
